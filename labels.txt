@@ -1,0 +1,4 @@
+0 1_Tomato_Healthy
+1 _Bacterial_Spot
+2 _Late_Blight
+3 _Yellow_Leaf_Curl_Virus
